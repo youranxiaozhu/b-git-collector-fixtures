@@ -1,4 +1,4 @@
 # Controlled B collector fixture
 MODE=SIMULATED_ONLY
-REVISION=1
+REVISION=2
 NO_USABLE_CREDENTIALS=true
